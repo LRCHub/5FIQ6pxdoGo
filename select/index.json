@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "more than words (Anime ver.)",
+  "base_artist": "Hitsujibungaku",
+  "createdAt": "2025-12-01T12:45:22.257755Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "more than words (Anime ver.)",
+      "artist": "羊文学",
+      "has_synced": true,
+      "path": "select/01_more_than_words_(Anime_ver.)_羊文学.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "more than words (Anime ver.)",
+      "artist": "Hitsujibungaku",
+      "has_synced": true,
+      "path": "select/02_more_than_words_(Anime_ver.)_Hitsujibungaku.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "more than words - Anime ver.",
+      "artist": "羊文学",
+      "has_synced": false,
+      "path": "select/pl_01_more_than_words_-_Anime_ver._羊文学.txt"
+    }
+  ]
+}
